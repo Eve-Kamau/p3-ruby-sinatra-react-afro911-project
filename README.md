@@ -1,5 +1,8 @@
 # Project Description - A Job Search Platform for Africa's Talent - AFRO-TALANTA 911
 
+<img width="358" alt="image" src="https://user-images.githubusercontent.com/118021645/232107725-8fc50544-7737-4018-a9a6-95d5a9a4c386.png">
+
+
 Youth are Africa’s greatest asset and make up 37% of the working-age population in Africa.
 
 In 2017, The Africa Competitiveness Report released by the World Economic Forum, the African Development Bank, and the World Bank Group, kicked off with these words: “Looking ahead, the continent’s young and increasing population presents an unprecedented opportunity to spur rapid development, a growing labor force and a large and emerging consumer market hold the promise of significant growth opportunities.
@@ -29,7 +32,5 @@ To view this application
  2. You can run Sinatra server with $ bundle exec rake server
  
  
- <img width="358" alt="image" src="https://user-images.githubusercontent.com/118021645/232107725-8fc50544-7737-4018-a9a6-95d5a9a4c386.png">
-
-
+ 
 
