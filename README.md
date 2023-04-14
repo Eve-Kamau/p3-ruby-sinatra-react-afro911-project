@@ -1,6 +1,10 @@
-# Project Description - A Job Search Platform for Africa's Talent - AFRO-TALANTA 911
+# Project Description 
+## A Job Search Platform for Africa's Talent - AFRO-TALANTA 911
 
-<img width="358" alt="image" src="https://user-images.githubusercontent.com/118021645/232107725-8fc50544-7737-4018-a9a6-95d5a9a4c386.png">
+                         
+                         <img width="252" alt="image" src="https://user-images.githubusercontent.com/118021645/232108550-61dcc6f5-b933-4843-9656-080aea48b169.png">
+
+
 
 
 Youth are Africa’s greatest asset and make up 37% of the working-age population in Africa.
