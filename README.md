@@ -15,13 +15,21 @@ Afro-Talanta 911 App aims to help an African job seeker to search for new job op
 A project under development..Stay in the Loop!!
  
  ## Project Setup
+ 
+ ## FRONT-END SETUP (React)
 To view this application
 
 1. Run npm install in your terminal.
-2. Run npm run server. This will run your backend on port 9292 (http://localhost:9292)
+2. Run npm run server. 
+   This will run your backend on port 9292 (http://localhost:9292)
 3. In a new terminal, run npm start. This will run your React app on port 9292.
 
-In our React application, the data passed is in the db.json file. 
+ ## BACK-END SETUP (Sinatra API)
+ 1. Run `bundle install` to install the dependencies.
+ 2. You can run Sinatra server with $ bundle exec rake server
+ 
+ 
+ <img width="358" alt="image" src="https://user-images.githubusercontent.com/118021645/232107725-8fc50544-7737-4018-a9a6-95d5a9a4c386.png">
 
 
 
