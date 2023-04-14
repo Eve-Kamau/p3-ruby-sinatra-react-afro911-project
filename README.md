@@ -1,12 +1,9 @@
 # Project Description 
-## A Job Search Platform for Africa's Talent - AFRO-TALANTA 911
+## A Job Search Platform for Africa's Talent - AFRO-TALANTA 911 APP
 
-                         
-                         <img width="252" alt="image" src="https://user-images.githubusercontent.com/118021645/232108550-61dcc6f5-b933-4843-9656-080aea48b169.png">
+<img width="252" alt="image" src="https://user-images.githubusercontent.com/118021645/232108727-0017fea0-91d7-4b97-aa6c-7bfa8953efad.png">
 
-
-
-
+    
 Youth are Africa’s greatest asset and make up 37% of the working-age population in Africa.
 
 In 2017, The Africa Competitiveness Report released by the World Economic Forum, the African Development Bank, and the World Bank Group, kicked off with these words: “Looking ahead, the continent’s young and increasing population presents an unprecedented opportunity to spur rapid development, a growing labor force and a large and emerging consumer market hold the promise of significant growth opportunities.
